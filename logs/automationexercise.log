@@ -737,3 +737,61 @@
 15-Dec-25 12:37:00 - root - INFO - ACCOUNT DELETED!
 15-Dec-25 12:37:00 - root - INFO - Your account has been permanently deleted!
 15-Dec-25 12:37:00 - root - INFO - You can create new account to take advantage of member privileges to enhance your online shopping experience with us.
+15-Dec-25 13:02:56 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 13:02:58 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 13:02:59 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 13:03:01 - root - INFO - ********Product Added Successfully in cart********************
+15-Dec-25 13:03:03 - root - INFO - ********Products Page is displayed********************
+15-Dec-25 13:03:03 - root - INFO - ********Products are getting added to cart********************
+15-Dec-25 13:03:04 - root - INFO - ********Products Page is displayed********************
+15-Dec-25 13:03:04 - root - INFO - ********Brand Filters is displayed********************
+15-Dec-25 13:03:07 - root - INFO - ********Blue Top item found in cart********************
+15-Dec-25 13:03:12 - root - INFO - *********test_verify_page_title********************
+15-Dec-25 13:03:18 - root - INFO - *********Title Matched with Expected Title********************
+15-Dec-25 13:03:20 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 13:03:20 - root - INFO - ********Category is displayed********************
+15-Dec-25 13:03:21 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 13:03:25 - root - INFO - *********Login with Valid Credentials********************
+15-Dec-25 13:03:29 - root - INFO - ********Products Page is displayed********************
+15-Dec-25 13:03:34 - root - INFO - ********Login with Invalid Credentials********************
+15-Dec-25 13:03:39 - root - INFO - ********Logout User********************
+15-Dec-25 13:03:41 - root - INFO - ********User Login Successfully********************
+15-Dec-25 13:03:48 - root - INFO - ********User Not Login Successfully********************
+15-Dec-25 13:03:49 - root - INFO - *********Register Page is displayed ********************
+15-Dec-25 13:03:52 - root - INFO - ********User Login Successfully********************
+15-Dec-25 13:03:55 - root - INFO - ------Product Page Displayed------
+15-Dec-25 13:03:57 - root - INFO - ********User Logout Successfully********************
+15-Dec-25 13:04:02 - root - INFO - ********Product Page Displayed and All products displayed********************
+15-Dec-25 13:04:02 - root - INFO - ------Product Page Displayed------
+15-Dec-25 13:04:03 - root - INFO - *********Register Page is displayed********************
+15-Dec-25 13:04:06 - root - INFO - ********Single Product Information is displayed********************
+15-Dec-25 13:04:11 - root - INFO - ********Product Page Displayed and All products displayed********************
+15-Dec-25 13:04:13 - root - INFO - ********Searching the Top********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Blue Top********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Winter Top********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Summer White Top********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Madame Top For Women********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Fancy Green Top********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Sleeves Printed Top - White********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Half Sleeves Top Schiffli Detailing - Pink********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Frozen Tops For Kids********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Full Sleeves Top Cherry - Pink********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Printed Off Shoulder Top - White********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Sleeves Top and Short - Blue & Pink********************
+15-Dec-25 13:04:16 - root - INFO - ********Result Found Little Girls Mr. Panda Shirt********************
+15-Dec-25 13:04:16 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64258): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/d6b9c5f4e5e71c1dd4080186e4f1e0cf
+15-Dec-25 13:04:20 - root - INFO - ------Home Page Displayed------
+15-Dec-25 13:04:21 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64258): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/d6b9c5f4e5e71c1dd4080186e4f1e0cf
+15-Dec-25 13:04:21 - root - INFO - ACCOUNT CREATED!
+15-Dec-25 13:04:21 - root - INFO - Congratulations! Your new account has been successfully created!
+15-Dec-25 13:04:21 - root - INFO - You can now take advantage of member privileges to enhance your online shopping experience with us.
+15-Dec-25 13:04:25 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64258): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/d6b9c5f4e5e71c1dd4080186e4f1e0cf
+15-Dec-25 13:04:26 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+15-Dec-25 13:04:26 - root - INFO - ACCOUNT DELETED!
+15-Dec-25 13:04:26 - root - INFO - Your account has been permanently deleted!
+15-Dec-25 13:04:26 - root - INFO - You can create new account to take advantage of member privileges to enhance your online shopping experience with us.
+15-Dec-25 13:04:31 - root - INFO - *********Register User Page is displayed********************
+15-Dec-25 13:04:32 - root - INFO - ------Home Page Displayed------
+15-Dec-25 13:04:40 - root - INFO - ------Cart Page Displayed------
+15-Dec-25 13:04:42 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+15-Dec-25 13:04:44 - root - INFO - Email Address already exist!
