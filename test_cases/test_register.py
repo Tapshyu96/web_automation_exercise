@@ -66,6 +66,7 @@ class Test02Register:
 
     @pytest.mark.sanity
     @pytest.mark.regression
+    @pytest.mark.register
     def test_register_user(self,setup):
         self.logger.info("*********Register Page is displayed********************")
         self.driver = setup

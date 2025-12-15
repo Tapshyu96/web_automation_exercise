@@ -661,3 +661,79 @@
 15-Dec-25 11:00:09 - root - INFO - ------Home Page Displayed------
 15-Dec-25 11:00:18 - root - INFO - ------Cart Page Displayed------
 15-Dec-25 11:00:20 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+15-Dec-25 12:09:21 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 12:09:22 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 12:09:24 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 12:09:25 - root - INFO - ********Products Page is displayed********************
+15-Dec-25 12:09:25 - root - INFO - ********Products are getting added to cart********************
+15-Dec-25 12:09:26 - root - INFO - ********Product Added Successfully in cart********************
+15-Dec-25 12:09:33 - root - INFO - ********Blue Top item found in cart********************
+15-Dec-25 12:09:34 - root - INFO - ********Products Page is displayed********************
+15-Dec-25 12:09:34 - root - INFO - ********Brand Filters is displayed********************
+15-Dec-25 12:09:39 - root - INFO - ********POLO Brand is selected********************
+15-Dec-25 12:09:39 - root - INFO - ********['Blue Top'] having [500] price are added to cart********************
+15-Dec-25 12:09:43 - root - INFO - ********H&M Brand is selected********************
+15-Dec-25 12:09:47 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 12:09:47 - root - INFO - ********Category is displayed********************
+15-Dec-25 12:09:51 - root - INFO - *********test_verify_page_title********************
+15-Dec-25 12:09:56 - root - INFO - *********Title Matched with Expected Title********************
+15-Dec-25 12:09:57 - root - INFO - ********['Blue Top', 'Men Tshirt'] having [500, 400] price are added to cart********************
+15-Dec-25 12:09:57 - root - INFO - ********Cart Page is Displayed********************
+15-Dec-25 12:09:57 - root - INFO - ********Blue Top item found in cart********************
+15-Dec-25 12:09:57 - root - INFO - ********500 price of Blue Top found in cart********************
+15-Dec-25 12:09:57 - root - INFO - ********500 price is correct and matched in cart********************
+15-Dec-25 12:09:57 - root - INFO - ********Men Tshirt item found in cart********************
+15-Dec-25 12:09:57 - root - INFO - ********400 price of Men Tshirt found in cart********************
+15-Dec-25 12:09:57 - root - INFO - ********400 price is correct and matched in cart********************
+15-Dec-25 12:10:02 - root - INFO - ********Login with Invalid Credentials********************
+15-Dec-25 12:10:08 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 12:10:12 - root - INFO - *********Login with Valid Credentials********************
+15-Dec-25 12:10:16 - root - INFO - ********Products Page is displayed********************
+15-Dec-25 12:10:16 - root - INFO - ********User Not Login Successfully********************
+15-Dec-25 12:10:19 - root - INFO - ********Products Details Page is displayed********************
+15-Dec-25 12:10:19 - root - INFO - ********Change the Product Quantity********************
+15-Dec-25 12:10:21 - root - INFO - ********Logout User********************
+15-Dec-25 12:10:29 - root - INFO - ********User Login Successfully********************
+15-Dec-25 12:10:29 - root - INFO - ********Blue Top item found in cart********************
+15-Dec-25 12:10:29 - root - INFO - ********Quantity from product details 4 matched with Quantity from Cart i.e.4********************
+15-Dec-25 12:10:33 - root - INFO - ------Product Page Displayed------
+15-Dec-25 12:10:35 - root - INFO - *********Register Page is displayed********************
+15-Dec-25 12:10:43 - root - INFO - ********Product Page Displayed and All products displayed********************
+15-Dec-25 12:10:48 - root - INFO - ********Single Product Information is displayed********************
+15-Dec-25 12:10:57 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60899): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/a9a52848b2ebd31198d41088bb5a380f
+15-Dec-25 12:10:59 - root - INFO - ********User Login Successfully********************
+15-Dec-25 12:11:01 - root - INFO - *********Register User Page is displayed********************
+15-Dec-25 12:11:01 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60899): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/a9a52848b2ebd31198d41088bb5a380f
+15-Dec-25 12:11:02 - root - INFO - ********User Logout Successfully********************
+15-Dec-25 12:11:05 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60899): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/a9a52848b2ebd31198d41088bb5a380f
+15-Dec-25 12:11:06 - root - INFO - ------Product Page Displayed------
+15-Dec-25 12:11:11 - root - INFO - *********Register Page is displayed ********************
+15-Dec-25 12:11:12 - root - INFO - ********Product Page Displayed and All products displayed********************
+15-Dec-25 12:11:14 - root - INFO - ********Searching the Top********************
+15-Dec-25 12:11:17 - root - INFO - Email Address already exist!
+15-Dec-25 12:11:18 - root - INFO - ********Result Found Blue Top********************
+15-Dec-25 12:11:18 - root - INFO - ********Result Found Winter Top********************
+15-Dec-25 12:11:18 - root - INFO - ********Result Found Summer White Top********************
+15-Dec-25 12:11:18 - root - INFO - ********Result Found Madame Top For Women********************
+15-Dec-25 12:11:18 - root - INFO - ********Result Found Fancy Green Top********************
+15-Dec-25 12:11:18 - root - INFO - ********Result Found Sleeves Printed Top - White********************
+15-Dec-25 12:11:18 - root - INFO - ********Result Found Half Sleeves Top Schiffli Detailing - Pink********************
+15-Dec-25 12:11:19 - root - INFO - ********Result Found Frozen Tops For Kids********************
+15-Dec-25 12:11:19 - root - INFO - ********Result Found Full Sleeves Top Cherry - Pink********************
+15-Dec-25 12:11:19 - root - INFO - ********Result Found Printed Off Shoulder Top - White********************
+15-Dec-25 12:11:19 - root - INFO - ********Result Found Sleeves Top and Short - Blue & Pink********************
+15-Dec-25 12:11:19 - root - INFO - ********Result Found Little Girls Mr. Panda Shirt********************
+15-Dec-25 12:11:21 - root - INFO - ------Home Page Displayed------
+15-Dec-25 12:11:24 - root - INFO - ------Home Page Displayed------
+15-Dec-25 12:11:35 - root - INFO - ------Cart Page Displayed------
+15-Dec-25 12:11:37 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+15-Dec-25 12:11:38 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+15-Dec-25 12:32:33 - root - INFO - *********Register Page is displayed ********************
+15-Dec-25 12:33:05 - root - INFO - *********Register Page is displayed********************
+15-Dec-25 12:36:40 - root - INFO - *********Register Page is displayed********************
+15-Dec-25 12:36:55 - root - INFO - ACCOUNT CREATED!
+15-Dec-25 12:36:55 - root - INFO - Congratulations! Your new account has been successfully created!
+15-Dec-25 12:36:55 - root - INFO - You can now take advantage of member privileges to enhance your online shopping experience with us.
+15-Dec-25 12:37:00 - root - INFO - ACCOUNT DELETED!
+15-Dec-25 12:37:00 - root - INFO - Your account has been permanently deleted!
+15-Dec-25 12:37:00 - root - INFO - You can create new account to take advantage of member privileges to enhance your online shopping experience with us.

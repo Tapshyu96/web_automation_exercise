@@ -48,6 +48,7 @@ class RegisterPage:
         self.driver.find_element(*self.options).click()
 
     def fill_address_information(self,f_name,l_name,address,state,city,zipcode,mob_no):
+        self.driver.execute_script("window.scrollTo(0, 300);")
         self.driver.find_element(*self.firstname).send_keys(f_name)
         self.driver.find_element(*self.lastname).send_keys(l_name)
         self.driver.find_element(*self.address).send_keys(address)
