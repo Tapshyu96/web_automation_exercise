@@ -1,4 +1,5 @@
 @echo off
+cd C:\Users\Tapshyu Ganvir\PycharmProjects\automationexercise
 call .venv\Scripts\activate
 pytest -s -v -n 3 --browser chrome
 rem pytest -s -v -n 3 --browser firefox

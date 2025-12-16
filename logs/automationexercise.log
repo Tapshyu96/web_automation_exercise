@@ -795,3 +795,140 @@
 15-Dec-25 13:04:40 - root - INFO - ------Cart Page Displayed------
 15-Dec-25 13:04:42 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
 15-Dec-25 13:04:44 - root - INFO - Email Address already exist!
+15-Dec-25 13:08:04 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 13:08:06 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 13:08:06 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 13:08:08 - root - INFO - ********Product Added Successfully in cart********************
+15-Dec-25 13:08:10 - root - INFO - ********Products Page is displayed********************
+15-Dec-25 13:08:10 - root - INFO - ********Products are getting added to cart********************
+15-Dec-25 13:08:12 - root - INFO - ********Products Page is displayed********************
+15-Dec-25 13:08:12 - root - INFO - ********Brand Filters is displayed********************
+15-Dec-25 13:08:14 - root - INFO - ********Blue Top item found in cart********************
+15-Dec-25 13:08:21 - root - INFO - *********test_verify_page_title********************
+15-Dec-25 13:08:25 - root - INFO - *********Title Matched with Expected Title********************
+15-Dec-25 13:08:30 - root - INFO - *********Login with Valid Credentials********************
+15-Dec-25 13:08:31 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 13:08:31 - root - INFO - ********Category is displayed********************
+15-Dec-25 13:08:32 - root - INFO - ********Home Page is displayed********************
+15-Dec-25 13:08:39 - root - INFO - ********Products Page is displayed********************
+15-Dec-25 13:08:41 - root - INFO - ********Login with Invalid Credentials********************
+15-Dec-25 13:08:43 - root - INFO - ********User Login Successfully********************
+15-Dec-25 13:08:45 - root - INFO - ********Logout User********************
+15-Dec-25 13:08:47 - root - INFO - *********Register Page is displayed ********************
+15-Dec-25 13:08:55 - root - INFO - ********User Not Login Successfully********************
+15-Dec-25 13:08:57 - root - INFO - ********User Login Successfully********************
+15-Dec-25 13:08:58 - root - INFO - *********Register Page is displayed********************
+15-Dec-25 13:08:59 - root - INFO - ------Product Page Displayed------
+15-Dec-25 13:09:00 - root - INFO - ********User Logout Successfully********************
+15-Dec-25 13:09:04 - root - INFO - ------Product Page Displayed------
+15-Dec-25 13:09:06 - root - INFO - ********Product Page Displayed and All products displayed********************
+15-Dec-25 13:09:09 - root - INFO - ********Single Product Information is displayed********************
+15-Dec-25 13:09:12 - root - INFO - ********Product Page Displayed and All products displayed********************
+15-Dec-25 13:09:14 - root - INFO - ********Searching the Top********************
+15-Dec-25 13:09:15 - root - INFO - ACCOUNT CREATED!
+15-Dec-25 13:09:15 - root - INFO - Congratulations! Your new account has been successfully created!
+15-Dec-25 13:09:15 - root - INFO - You can now take advantage of member privileges to enhance your online shopping experience with us.
+15-Dec-25 13:09:16 - root - INFO - ********Result Found Blue Top********************
+15-Dec-25 13:09:16 - root - INFO - ********Result Found Winter Top********************
+15-Dec-25 13:09:17 - root - INFO - ********Result Found Summer White Top********************
+15-Dec-25 13:09:17 - root - INFO - ********Result Found Madame Top For Women********************
+15-Dec-25 13:09:17 - root - INFO - ********Result Found Fancy Green Top********************
+15-Dec-25 13:09:17 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=65435): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e79860a8e9090e27ca9e77e679464453
+15-Dec-25 13:09:17 - root - INFO - ********Result Found Sleeves Printed Top - White********************
+15-Dec-25 13:09:17 - root - INFO - ********Result Found Half Sleeves Top Schiffli Detailing - Pink********************
+15-Dec-25 13:09:17 - root - INFO - ********Result Found Frozen Tops For Kids********************
+15-Dec-25 13:09:17 - root - INFO - ********Result Found Full Sleeves Top Cherry - Pink********************
+15-Dec-25 13:09:17 - root - INFO - ********Result Found Printed Off Shoulder Top - White********************
+15-Dec-25 13:09:17 - root - INFO - ********Result Found Sleeves Top and Short - Blue & Pink********************
+15-Dec-25 13:09:17 - root - INFO - ********Result Found Little Girls Mr. Panda Shirt********************
+15-Dec-25 13:09:21 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=65435): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e79860a8e9090e27ca9e77e679464453
+15-Dec-25 13:09:24 - root - INFO - ACCOUNT DELETED!
+15-Dec-25 13:09:24 - root - INFO - Your account has been permanently deleted!
+15-Dec-25 13:09:24 - root - INFO - You can create new account to take advantage of member privileges to enhance your online shopping experience with us.
+15-Dec-25 13:09:24 - root - INFO - ------Home Page Displayed------
+15-Dec-25 13:09:25 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=65435): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e79860a8e9090e27ca9e77e679464453
+15-Dec-25 13:09:32 - root - INFO - ------Home Page Displayed------
+15-Dec-25 13:09:37 - root - INFO - ------Cart Page Displayed------
+15-Dec-25 13:09:37 - root - INFO - *********Register User Page is displayed********************
+15-Dec-25 13:09:39 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+15-Dec-25 13:09:39 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+15-Dec-25 13:09:50 - root - INFO - Email Address already exist!
+16-Dec-25 10:24:28 - root - INFO - ********Home Page is displayed********************
+16-Dec-25 10:24:47 - root - INFO - ********Products Page is displayed********************
+16-Dec-25 10:24:47 - root - INFO - ********Brand Filters is displayed********************
+16-Dec-25 10:24:59 - root - INFO - ********POLO Brand is selected********************
+16-Dec-25 10:25:02 - root - INFO - ********H&M Brand is selected********************
+16-Dec-25 10:26:22 - root - INFO - ********Home Page is displayed********************
+16-Dec-25 10:26:34 - root - INFO - ********Products Page is displayed********************
+16-Dec-25 10:26:37 - root - INFO - ********Products Details Page is displayed********************
+16-Dec-25 10:26:38 - root - INFO - ********Change the Product Quantity********************
+16-Dec-25 10:26:47 - root - INFO - ********Blue Top item found in cart********************
+16-Dec-25 10:26:47 - root - INFO - ********Quantity from product details 4 matched with Quantity from Cart i.e.4********************
+16-Dec-25 10:27:48 - root - INFO - ********Home Page is displayed********************
+16-Dec-25 10:28:22 - root - INFO - ********Products Page is displayed********************
+16-Dec-25 10:28:22 - root - INFO - ********Products are getting added to cart********************
+16-Dec-25 10:28:31 - root - INFO - ********['Blue Top'] having [500] price are added to cart********************
+16-Dec-25 10:28:45 - root - INFO - ********['Blue Top', 'Men Tshirt'] having [500, 400] price are added to cart********************
+16-Dec-25 10:28:45 - root - INFO - ********Cart Page is Displayed********************
+16-Dec-25 10:28:45 - root - INFO - ********Blue Top item found in cart********************
+16-Dec-25 10:28:45 - root - INFO - ********500 price of Blue Top found in cart********************
+16-Dec-25 10:28:45 - root - INFO - ********500 price is correct and matched in cart********************
+16-Dec-25 10:28:45 - root - INFO - ********Men Tshirt item found in cart********************
+16-Dec-25 10:28:45 - root - INFO - ********400 price of Men Tshirt found in cart********************
+16-Dec-25 10:28:45 - root - INFO - ********400 price is correct and matched in cart********************
+16-Dec-25 10:29:25 - root - INFO - ********Home Page is displayed********************
+16-Dec-25 10:29:32 - root - INFO - ********Products Page is displayed********************
+16-Dec-25 10:29:35 - root - INFO - ********Products Details Page is displayed********************
+16-Dec-25 10:29:35 - root - INFO - ********Change the Product Quantity********************
+16-Dec-25 10:29:41 - root - INFO - ********Blue Top item found in cart********************
+16-Dec-25 10:29:41 - root - INFO - ********Quantity from product details 4 matched with Quantity from Cart i.e.4********************
+16-Dec-25 10:29:48 - root - INFO - ********Home Page is displayed********************
+16-Dec-25 10:29:52 - root - INFO - ********Product Added Successfully in cart********************
+16-Dec-25 10:29:58 - root - INFO - ********Blue Top item found in cart********************
+16-Dec-25 10:30:10 - root - INFO - ********Home Page is displayed********************
+16-Dec-25 10:30:10 - root - INFO - ********Category is displayed********************
+16-Dec-25 10:30:36 - root - INFO - ********Home Page is displayed********************
+16-Dec-25 10:30:40 - root - INFO - ********Products Page is displayed********************
+16-Dec-25 10:30:41 - root - INFO - ********Brand Filters is displayed********************
+16-Dec-25 10:30:46 - root - INFO - ********POLO Brand is selected********************
+16-Dec-25 10:30:47 - root - INFO - ********H&M Brand is selected********************
+16-Dec-25 10:30:51 - root - INFO - *********test_verify_page_title********************
+16-Dec-25 10:30:58 - root - INFO - *********Title Matched with Expected Title********************
+16-Dec-25 10:31:02 - root - INFO - *********Login with Valid Credentials********************
+16-Dec-25 10:31:18 - root - INFO - ********User Login Successfully********************
+16-Dec-25 10:31:23 - root - INFO - ********Login with Invalid Credentials********************
+16-Dec-25 10:31:31 - root - INFO - ********User Not Login Successfully********************
+16-Dec-25 10:31:34 - root - INFO - ********Logout User********************
+16-Dec-25 10:32:07 - root - INFO - ********User Login Successfully********************
+16-Dec-25 10:32:10 - root - INFO - ********User Logout Successfully********************
+16-Dec-25 10:32:15 - root - INFO - ------Product Page Displayed------
+16-Dec-25 10:32:23 - root - INFO - ********Product Page Displayed and All products displayed********************
+16-Dec-25 10:32:26 - root - INFO - ********Single Product Information is displayed********************
+16-Dec-25 10:32:32 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63735): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/503230b1fc1e60db716c9055f2bc4a9e
+16-Dec-25 10:32:36 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63735): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/503230b1fc1e60db716c9055f2bc4a9e
+16-Dec-25 10:32:40 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63735): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/503230b1fc1e60db716c9055f2bc4a9e
+16-Dec-25 10:32:46 - root - INFO - ------Product Page Displayed------
+16-Dec-25 10:32:59 - root - INFO - ********Product Page Displayed and All products displayed********************
+16-Dec-25 10:33:01 - root - INFO - ********Searching the Top********************
+16-Dec-25 10:33:04 - root - INFO - ********Result Found Blue Top********************
+16-Dec-25 10:33:04 - root - INFO - ********Result Found Winter Top********************
+16-Dec-25 10:33:04 - root - INFO - ********Result Found Summer White Top********************
+16-Dec-25 10:33:05 - root - INFO - ********Result Found Madame Top For Women********************
+16-Dec-25 10:33:05 - root - INFO - ********Result Found Fancy Green Top********************
+16-Dec-25 10:33:05 - root - INFO - ********Result Found Sleeves Printed Top - White********************
+16-Dec-25 10:33:05 - root - INFO - ********Result Found Half Sleeves Top Schiffli Detailing - Pink********************
+16-Dec-25 10:33:05 - root - INFO - ********Result Found Frozen Tops For Kids********************
+16-Dec-25 10:33:05 - root - INFO - ********Result Found Full Sleeves Top Cherry - Pink********************
+16-Dec-25 10:33:05 - root - INFO - ********Result Found Printed Off Shoulder Top - White********************
+16-Dec-25 10:33:05 - root - INFO - ********Result Found Sleeves Top and Short - Blue & Pink********************
+16-Dec-25 10:33:05 - root - INFO - ********Result Found Little Girls Mr. Panda Shirt********************
+16-Dec-25 10:33:10 - root - INFO - *********Register Page is displayed ********************
+16-Dec-25 10:33:27 - root - INFO - *********Register Page is displayed********************
+16-Dec-25 10:33:43 - root - INFO - ACCOUNT CREATED!
+16-Dec-25 10:33:43 - root - INFO - Congratulations! Your new account has been successfully created!
+16-Dec-25 10:33:43 - root - INFO - You can now take advantage of member privileges to enhance your online shopping experience with us.
+16-Dec-25 10:33:48 - root - INFO - ACCOUNT DELETED!
+16-Dec-25 10:33:48 - root - INFO - Your account has been permanently deleted!
+16-Dec-25 10:33:48 - root - INFO - You can create new account to take advantage of member privileges to enhance your online shopping experience with us.
+16-Dec-25 10:37:48 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=63995): Read timed out. (read timeout=120)")': /session/c778e6d925cfe606f3528ca21c628488/screenshot
+16-Dec-25 10:39:48 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=63995): Read timed out. (read timeout=120)")': /session/c778e6d925cfe606f3528ca21c628488/screenshot

@@ -21,9 +21,9 @@ def pytest_addoption(parser):
 # SETUP FIXTURE
 # =========================
 @pytest.fixture()
-def setup(request):
-    browser = request.config.getoption("--browser")
-
+def setup(browser):
+    # browser = request.config.getoption("--browser")
+    global driver
     if browser == "chrome":
         driver = webdriver.Chrome()
     elif browser == "firefox":
@@ -37,7 +37,9 @@ def setup(request):
     yield driver
     driver.quit()
 
-
+@pytest.fixture()
+def browser(request):
+    return request.config.getoption("--browser")
 # =========================
 # PYTEST METADATA
 # =========================

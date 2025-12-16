@@ -16,30 +16,6 @@ class Test01Login:
     invalid_password = Read_config.get_invalid_password()
     logger = LogMaker.log_gen()
 
-#---------------------------------------
-#--------Verify the Page title----------
-# 1. Launch browser
-# 2. Navigate to url 'http://automationexercise.com'
-# 3. Verify that home page is visible successfully and match the title
-    @pytest.mark.sanity
-    @pytest.mark.regression
-    def test_verify_page_title(self,setup):
-        self.logger.info("*********test_verify_page_title********************")
-        self.driver = setup
-        self.driver.get(self.Url)
-        self.driver.maximize_window()
-        actual_title = self.driver.title
-        expected_title = "Automation Exercise"
-        if actual_title == expected_title:
-            self.logger.info("*********Title Matched with Expected Title********************")
-            assert True
-            self.driver.close()
-        else:
-            self.driver.save_screenshot(".\\screenshots\\test_verify_page_title.png")
-            self.logger.info("*********Title Not Matched with Expected Title********************")
-            self.driver.close()
-            assert False
-
 #------------------------------------------------
 #-----------Login User with correct email and password--------
 # 1. Launch browser

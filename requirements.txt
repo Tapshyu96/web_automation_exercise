@@ -1,3 +1,4 @@
+pytest-metadata
 pytest
 pytest-html
 pytest-xdist

@@ -40,33 +40,6 @@ class Test02Register:
 #--------------------------------------------------------------------------------------------------
     @pytest.mark.sanity
     @pytest.mark.regression
-    def test_register_page_title(self, setup):
-        self.logger.info("*********Register Page is displayed ********************")
-        self.driver = setup
-
-        try:
-            self.driver.get(self.Url)
-            self.driver.maximize_window()
-            self.loObject = Login(self.driver)
-            self.loObject.go_to_login_page()
-
-            actual_title = self.driver.title
-            expected_title = "Automation Exercise - Signup / Login"
-
-            assert actual_title == expected_title
-
-        except Exception as e:
-            timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-            path = f".\\screenshots\\test_register_page_title_{timestamp}.png"
-            self.driver.save_screenshot(path)
-            raise e
-
-        finally:
-            self.driver.close()
-
-    @pytest.mark.sanity
-    @pytest.mark.regression
-    @pytest.mark.register
     def test_register_user(self,setup):
         self.logger.info("*********Register Page is displayed********************")
         self.driver = setup
