@@ -1176,3 +1176,194 @@
 18-Dec-25 11:07:59 - root - INFO - ACCOUNT DELETED!
 18-Dec-25 11:08:02 - root - INFO - ------Now user is getting deleted------
 18-Dec-25 11:08:06 - root - INFO - ACCOUNT DELETED!
+18-Dec-25 11:20:02 - root - INFO - ********Home Page is displayed********************
+18-Dec-25 11:20:04 - root - INFO - ********Home Page is displayed********************
+18-Dec-25 11:20:04 - root - INFO - ********Home Page is displayed********************
+18-Dec-25 11:20:08 - root - INFO - ********Product Added Successfully in cart********************
+18-Dec-25 11:20:13 - root - INFO - ********Products Page is displayed********************
+18-Dec-25 11:20:13 - root - INFO - ********Brand Filters is displayed********************
+18-Dec-25 11:20:14 - root - INFO - ********Products Page is displayed********************
+18-Dec-25 11:20:14 - root - INFO - ********Products are getting added to cart********************
+18-Dec-25 11:20:21 - root - INFO - ********Blue Top item found in cart********************
+18-Dec-25 11:20:22 - root - INFO - ********POLO Brand is selected********************
+18-Dec-25 11:20:25 - root - INFO - ********['Blue Top'] having [500] price are added to cart********************
+18-Dec-25 11:20:26 - root - INFO - ********H&M Brand is selected********************
+18-Dec-25 11:20:31 - root - INFO - *********Login with Valid Credentials********************
+18-Dec-25 11:20:41 - root - INFO - ********Home Page is displayed********************
+18-Dec-25 11:20:41 - root - INFO - ********Category is displayed********************
+18-Dec-25 11:20:45 - root - INFO - ********['Blue Top', 'Men Tshirt'] having [500, 400] price are added to cart********************
+18-Dec-25 11:20:45 - root - INFO - ********Cart Page is Displayed********************
+18-Dec-25 11:20:45 - root - INFO - ********Blue Top item found in cart********************
+18-Dec-25 11:20:45 - root - INFO - ********500 price of Blue Top found in cart********************
+18-Dec-25 11:20:45 - root - INFO - ********500 price is correct and matched in cart********************
+18-Dec-25 11:20:45 - root - INFO - ********Men Tshirt item found in cart********************
+18-Dec-25 11:20:45 - root - INFO - ********400 price of Men Tshirt found in cart********************
+18-Dec-25 11:20:45 - root - INFO - ********400 price is correct and matched in cart********************
+18-Dec-25 11:20:54 - root - INFO - ********Logout User********************
+18-Dec-25 11:21:01 - root - INFO - ********Home Page is displayed********************
+18-Dec-25 11:21:11 - root - INFO - ********Products Page is displayed********************
+18-Dec-25 11:21:13 - root - INFO - ********Login with Invalid Credentials********************
+18-Dec-25 11:21:19 - root - INFO - ********Products Details Page is displayed********************
+18-Dec-25 11:21:21 - root - INFO - ********Change the Product Quantity********************
+18-Dec-25 11:21:32 - root - INFO - ********User Not Login Successfully********************
+18-Dec-25 11:21:35 - root - INFO - ********Blue Top item found in cart********************
+18-Dec-25 11:21:35 - root - INFO - ********Quantity from product details 4 matched with Quantity from Cart i.e.4********************
+18-Dec-25 11:21:45 - root - INFO - ------Home Page Displayed------
+18-Dec-25 11:21:46 - root - INFO - ------Home Page Displayed------
+18-Dec-25 11:21:49 - root - INFO - ------Home Page Displayed------
+18-Dec-25 11:21:49 - root - INFO - ------First Product added in cart------
+18-Dec-25 11:21:53 - root - INFO - ------Login / Signup Page Displayed------
+18-Dec-25 11:21:53 - root - INFO - ------Login / Signup Page Displayed------
+18-Dec-25 11:21:53 - root - INFO - ------Cart page is displayed------
+18-Dec-25 11:22:06 - root - INFO - ------Now user is getting created------
+18-Dec-25 11:22:14 - root - INFO - ACCOUNT CREATED!
+18-Dec-25 11:22:14 - root - INFO - Congratulations! Your new account has been successfully created!
+18-Dec-25 11:22:14 - root - INFO - You can now take advantage of member privileges to enhance your online shopping experience with us.
+18-Dec-25 11:22:20 - root - INFO - ------Product Page Displayed------
+18-Dec-25 11:22:22 - root - INFO - ------First Product added in cart------
+18-Dec-25 11:22:27 - root - INFO - *********Register Page is displayed********************
+18-Dec-25 11:22:28 - root - INFO - ********Product Page Displayed and All products displayed********************
+18-Dec-25 11:22:29 - root - INFO - ------Cart page is displayed------
+18-Dec-25 11:22:30 - root - INFO - ********Searching the Top********************
+18-Dec-25 11:22:36 - root - INFO - ********Result Found Blue Top********************
+18-Dec-25 11:22:40 - root - INFO - ------Checkout page is displayed------
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Winter Top********************
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Summer White Top********************
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Madame Top For Women********************
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Fancy Green Top********************
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Sleeves Printed Top - White********************
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Half Sleeves Top Schiffli Detailing - Pink********************
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Frozen Tops For Kids********************
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Full Sleeves Top Cherry - Pink********************
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Printed Off Shoulder Top - White********************
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Sleeves Top and Short - Blue & Pink********************
+18-Dec-25 11:22:43 - root - INFO - ********Result Found Little Girls Mr. Panda Shirt********************
+18-Dec-25 11:22:46 - root - INFO - ------Payment page is displayed------
+18-Dec-25 11:22:47 - root - INFO - ACCOUNT CREATED!
+18-Dec-25 11:22:47 - root - INFO - Congratulations! Your new account has been successfully created!
+18-Dec-25 11:22:47 - root - INFO - You can now take advantage of member privileges to enhance your online shopping experience with us.
+18-Dec-25 11:22:51 - root - INFO - *********Register User Page is displayed********************
+18-Dec-25 11:22:59 - root - INFO - ACCOUNT DELETED!
+18-Dec-25 11:22:59 - root - INFO - Your account has been permanently deleted!
+18-Dec-25 11:22:59 - root - INFO - You can create new account to take advantage of member privileges to enhance your online shopping experience with us.
+18-Dec-25 11:22:59 - root - INFO - ------Now user is getting deleted------
+18-Dec-25 11:23:05 - root - INFO - ACCOUNT DELETED!
+18-Dec-25 11:23:06 - root - INFO - Email Address already exist!
+18-Dec-25 11:23:08 - root - INFO - ------Home Page Displayed------
+18-Dec-25 11:23:09 - root - INFO - ------Product Page Displayed------
+18-Dec-25 11:23:11 - root - INFO - ------Home Page Displayed------
+18-Dec-25 11:23:14 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+18-Dec-25 11:23:18 - root - INFO - ********Product Page Displayed and All products displayed********************
+18-Dec-25 11:23:21 - root - INFO - ------Cart Page Displayed------
+18-Dec-25 11:23:23 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+18-Dec-25 11:23:26 - root - INFO - ********Single Product Information is displayed********************
+18-Dec-25 11:23:33 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59004): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/2e85a64fb6091d1990b5348cc7b14194
+18-Dec-25 11:23:37 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59004): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/2e85a64fb6091d1990b5348cc7b14194
+18-Dec-25 11:23:41 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59004): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/2e85a64fb6091d1990b5348cc7b14194
+18-Dec-25 11:29:27 - root - INFO - ********Home Page is displayed********************
+18-Dec-25 11:29:31 - root - INFO - ********Home Page is displayed********************
+18-Dec-25 11:29:32 - root - INFO - ********Home Page is displayed********************
+18-Dec-25 11:29:34 - root - INFO - ********Products Page is displayed********************
+18-Dec-25 11:29:34 - root - INFO - ********Brand Filters is displayed********************
+18-Dec-25 11:29:38 - root - INFO - ********Products Page is displayed********************
+18-Dec-25 11:29:38 - root - INFO - ********Products are getting added to cart********************
+18-Dec-25 11:29:41 - root - INFO - ********POLO Brand is selected********************
+18-Dec-25 11:29:42 - root - INFO - ********Product Added Successfully in cart********************
+18-Dec-25 11:29:45 - root - INFO - ********H&M Brand is selected********************
+18-Dec-25 11:29:48 - root - INFO - ********Blue Top item found in cart********************
+18-Dec-25 11:29:48 - root - INFO - ********['Blue Top'] having [500] price are added to cart********************
+18-Dec-25 11:29:50 - root - INFO - *********Login with Valid Credentials********************
+18-Dec-25 11:30:02 - root - INFO - ********Home Page is displayed********************
+18-Dec-25 11:30:02 - root - INFO - ********Category is displayed********************
+18-Dec-25 11:30:04 - root - INFO - ********['Blue Top', 'Men Tshirt'] having [500, 400] price are added to cart********************
+18-Dec-25 11:30:04 - root - INFO - ********Cart Page is Displayed********************
+18-Dec-25 11:30:04 - root - INFO - ********Blue Top item found in cart********************
+18-Dec-25 11:30:04 - root - INFO - ********500 price of Blue Top found in cart********************
+18-Dec-25 11:30:04 - root - INFO - ********500 price is correct and matched in cart********************
+18-Dec-25 11:30:04 - root - INFO - ********Men Tshirt item found in cart********************
+18-Dec-25 11:30:04 - root - INFO - ********400 price of Men Tshirt found in cart********************
+18-Dec-25 11:30:04 - root - INFO - ********400 price is correct and matched in cart********************
+18-Dec-25 11:30:14 - root - INFO - ********Home Page is displayed********************
+18-Dec-25 11:30:20 - root - INFO - ********Products Page is displayed********************
+18-Dec-25 11:30:22 - root - INFO - ********Products Details Page is displayed********************
+18-Dec-25 11:30:24 - root - INFO - ********Change the Product Quantity********************
+18-Dec-25 11:30:26 - root - INFO - ********Logout User********************
+18-Dec-25 11:30:40 - root - INFO - ********Blue Top item found in cart********************
+18-Dec-25 11:30:40 - root - INFO - ********Quantity from product details 4 matched with Quantity from Cart i.e.4********************
+18-Dec-25 11:30:40 - root - INFO - ********User Login Successfully********************
+18-Dec-25 11:30:46 - root - INFO - ********Login with Invalid Credentials********************
+18-Dec-25 11:30:50 - root - INFO - ------Home Page Displayed------
+18-Dec-25 11:30:51 - root - INFO - ------First Product added in cart------
+18-Dec-25 11:30:53 - root - INFO - ********User Login Successfully********************
+18-Dec-25 11:30:56 - root - INFO - ------Cart page is displayed------
+18-Dec-25 11:30:57 - root - INFO - ********User Logout Successfully********************
+18-Dec-25 11:31:05 - root - INFO - ********User Not Login Successfully********************
+18-Dec-25 11:31:06 - root - INFO - ------Home Page Displayed------
+18-Dec-25 11:31:07 - root - INFO - ------Now user is getting created------
+18-Dec-25 11:31:10 - root - INFO - ------Product Page Displayed------
+18-Dec-25 11:31:13 - root - INFO - ------Login / Signup Page Displayed------
+18-Dec-25 11:31:23 - root - INFO - ********Product Page Displayed and All products displayed********************
+18-Dec-25 11:31:27 - root - INFO - ACCOUNT CREATED!
+18-Dec-25 11:31:27 - root - INFO - Congratulations! Your new account has been successfully created!
+18-Dec-25 11:31:27 - root - INFO - You can now take advantage of member privileges to enhance your online shopping experience with us.
+18-Dec-25 11:31:27 - root - INFO - ACCOUNT CREATED!
+18-Dec-25 11:31:27 - root - INFO - Congratulations! Your new account has been successfully created!
+18-Dec-25 11:31:27 - root - INFO - You can now take advantage of member privileges to enhance your online shopping experience with us.
+18-Dec-25 11:31:31 - root - INFO - ********Single Product Information is displayed********************
+18-Dec-25 11:31:33 - root - INFO - ------First Product added in cart------
+18-Dec-25 11:31:37 - root - INFO - ------Cart page is displayed------
+18-Dec-25 11:31:39 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60362): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e052b7e89f0b74fcc05c22779e4927f0
+18-Dec-25 11:31:39 - root - INFO - ------Checkout page is displayed------
+18-Dec-25 11:31:42 - root - INFO - ------Payment page is displayed------
+18-Dec-25 11:31:43 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60362): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e052b7e89f0b74fcc05c22779e4927f0
+18-Dec-25 11:31:46 - root - INFO - ------Checkout page is displayed------
+18-Dec-25 11:31:47 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60362): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e052b7e89f0b74fcc05c22779e4927f0
+18-Dec-25 11:31:48 - root - INFO - ------Payment page is displayed------
+18-Dec-25 11:31:52 - root - INFO - ------Now user is getting deleted------
+18-Dec-25 11:31:54 - root - INFO - *********Register Page is displayed********************
+18-Dec-25 11:31:56 - root - INFO - ACCOUNT DELETED!
+18-Dec-25 11:31:57 - root - INFO - ------Now user is getting deleted------
+18-Dec-25 11:32:01 - root - INFO - ACCOUNT DELETED!
+18-Dec-25 11:32:06 - root - INFO - ------Product Page Displayed------
+18-Dec-25 11:32:06 - root - INFO - ------Home Page Displayed------
+18-Dec-25 11:32:12 - root - INFO - ------Login / Signup Page Displayed------
+18-Dec-25 11:32:16 - root - INFO - ACCOUNT CREATED!
+18-Dec-25 11:32:16 - root - INFO - Congratulations! Your new account has been successfully created!
+18-Dec-25 11:32:16 - root - INFO - You can now take advantage of member privileges to enhance your online shopping experience with us.
+18-Dec-25 11:32:17 - root - INFO - ********User Login Successfully********************
+18-Dec-25 11:32:18 - root - INFO - ------First Product added in cart------
+18-Dec-25 11:32:23 - root - INFO - ------Cart page is displayed------
+18-Dec-25 11:32:25 - root - INFO - ACCOUNT DELETED!
+18-Dec-25 11:32:25 - root - INFO - Your account has been permanently deleted!
+18-Dec-25 11:32:25 - root - INFO - You can create new account to take advantage of member privileges to enhance your online shopping experience with us.
+18-Dec-25 11:32:34 - root - INFO - ------Checkout page is displayed------
+18-Dec-25 11:32:36 - root - INFO - *********Register User Page is displayed********************
+18-Dec-25 11:32:38 - root - INFO - ------Payment page is displayed------
+18-Dec-25 11:32:43 - root - INFO - ********Product Page Displayed and All products displayed********************
+18-Dec-25 11:32:45 - root - INFO - ********Searching the Top********************
+18-Dec-25 11:32:50 - root - INFO - Email Address already exist!
+18-Dec-25 11:32:50 - root - INFO - ********Result Found Blue Top********************
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Winter Top********************
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Summer White Top********************
+18-Dec-25 11:32:51 - root - INFO - ------Now user is getting deleted------
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Madame Top For Women********************
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Fancy Green Top********************
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Sleeves Printed Top - White********************
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Half Sleeves Top Schiffli Detailing - Pink********************
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Frozen Tops For Kids********************
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Full Sleeves Top Cherry - Pink********************
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Printed Off Shoulder Top - White********************
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Sleeves Top and Short - Blue & Pink********************
+18-Dec-25 11:32:51 - root - INFO - ********Result Found Little Girls Mr. Panda Shirt********************
+18-Dec-25 11:32:55 - root - INFO - ACCOUNT DELETED!
+18-Dec-25 11:32:56 - root - INFO - ------Home Page Displayed------
+18-Dec-25 11:32:59 - root - INFO - ------Home Page Displayed------
+18-Dec-25 11:33:03 - root - INFO - ------Cart Page Displayed------
+18-Dec-25 11:33:05 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+18-Dec-25 11:33:05 - root - INFO - ------SUBSCRIPTION Displayed on Home Page------
+18-Dec-25 12:00:40 - root - INFO - ------Home Page Displayed------
+18-Dec-25 12:01:12 - root - INFO - ------Home Page Displayed------
+18-Dec-25 12:02:06 - root - INFO - ------Home Page Displayed------
+18-Dec-25 12:02:11 - root - INFO - ------Contact Us Page Displayed------
+18-Dec-25 12:06:01 - root - INFO - ------Home Page Displayed------
+18-Dec-25 12:06:06 - root - INFO - ------Contact Us Page Displayed------

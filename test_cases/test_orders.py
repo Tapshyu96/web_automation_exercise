@@ -313,23 +313,6 @@ class TestOrders:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def generate_email():
     domains = ["gmail.com", "yahoo.com", "outlook.com"]
     name = ''.join(random.choices(string.ascii_lowercase + string.digits, k=10))
